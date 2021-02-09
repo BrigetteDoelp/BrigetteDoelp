@@ -14,3 +14,6 @@
 * Personally invested in making the traditionally male industries of tech and nerd more inclusive for the gals, gays, and theys!
 * React is my favourite.
 * I want to make beautiful and useful things. 
+
+##### Sources
+[Source for Character Portrait](https://picrew.me/image_maker/227881)
